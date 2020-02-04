@@ -1,2 +1,3 @@
 Hello all.
-Keep it up
+Keep it up.
+It looks nice.
